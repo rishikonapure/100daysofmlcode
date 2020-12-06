@@ -10,7 +10,7 @@ Starting from 06 Dec, 2020, I am accepting challenge, which is "100-Days-Of-Mach
 
 • Instagram : @rishi.ml
 
-• Medium : <https//medium.com/@konapurer>
+• Medium : <https://medium.com/@konapurer>
 
 Motivation
 .
