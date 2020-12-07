@@ -12,10 +12,3 @@ Starting from 06 Dec, 2020, I am accepting challenge, which is "100-Days-Of-Mach
 
 • Medium : <https://medium.com/@konapurer>
 
-Motivation
-.
-.
-
-By doing this challenge, I would like to learn more about Machine Learning. In addition to that, at the end of 100 days, I hope to have a rich portfolio of code, projects, and summary of the machine learning topics and models plus all of the additional content (available on internet) which I'll discover over the learning journey.
-
-My aim throughout this process will be to learn as much as I can with accessible materials (mostly free) while always being sure to provide useful links that help someone who wants to learn machine learning. #100DaysOfMLCode
