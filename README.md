@@ -10,3 +10,11 @@ Starting from 06 Dec, 2020, I am accepting challenge, which is "100-Days-Of-Mach
  
 • Medium : <https://rishikonapure.medium.com/>
 
+## Resources for Python
+- [Python.org](https://www.python.org/)
+- [Intro to Computer Science](https://www.udacity.com/course/introduction-to-python--ud1110)
+- [LearnPython.org](https://www.learnpython.org/)
+- [GOOGLE’S PYTHON CLASS](https://developers.google.com/edu/python/)
+- [LEARN PYTHON PROGRAMMING](https://www.programiz.com/python-programming)
+- [The Python Tutorial](http://www.tutorialspoint.com/python/index.htm)
+- [Python kaggle](https://www.kaggle.com/learn/python)
