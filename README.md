@@ -18,3 +18,6 @@ Starting from 06 Dec, 2020, I am accepting challenge, which is "100-Days-Of-Mach
 - [LEARN PYTHON PROGRAMMING](https://www.programiz.com/python-programming)
 - [The Python Tutorial](http://www.tutorialspoint.com/python/index.htm)
 - [Python kaggle](https://www.kaggle.com/learn/python)
+
+## BLog 
+- [Python Basics for Data Science — I](https://medium.com/analytics-vidhya/python-basics-for-data-science-i-7845ff1f3c6e)
