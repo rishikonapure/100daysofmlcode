@@ -23,3 +23,7 @@ Starting from 06 Dec, 2020, I am accepting challenge, which is "100-Days-Of-Mach
 - [Python kaggle](https://www.kaggle.com/learn/python)
 
 ## Resources for Maths
+- Khan Academy [Linear algebra](https://www.khanacademy.org/math/linear-algebra), [Probability & Statistics](https://www.khanacademy.org/math/probability), [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus), [Optimization](https://www.khanacademy.org/math/old-differential-calculus/derivative-applications-dc/optimization-dc/e/optimization)
+- [Udacity’s Introduction to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+- edX [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)
+- stanford [Convex Optimization – Boyd and Vandenberghe](https://stanford.edu/~boyd/cvxbook/)
