@@ -10,6 +10,9 @@ Starting from 06 Dec, 2020, I am accepting challenge, which is "100-Days-Of-Mach
  
 • Medium : <https://rishikonapure.medium.com/>
 
+## BLog 
+- [Python Basics for Data Science — I](https://medium.com/analytics-vidhya/python-basics-for-data-science-i-7845ff1f3c6e)
+
 ## Resources for Python
 - [Python.org](https://www.python.org/)
 - [Intro to Computer Science](https://www.udacity.com/course/introduction-to-python--ud1110)
@@ -19,5 +22,4 @@ Starting from 06 Dec, 2020, I am accepting challenge, which is "100-Days-Of-Mach
 - [The Python Tutorial](http://www.tutorialspoint.com/python/index.htm)
 - [Python kaggle](https://www.kaggle.com/learn/python)
 
-## BLog 
-- [Python Basics for Data Science — I](https://medium.com/analytics-vidhya/python-basics-for-data-science-i-7845ff1f3c6e)
+## Resources for Maths
