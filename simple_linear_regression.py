@@ -1,4 +1,4 @@
-# Simple Linear Regression
+# Simple Linear Regression to predict salary
 
 # Importing the libraries
 import numpy as np
